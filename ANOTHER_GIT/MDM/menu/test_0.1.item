@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdmserverobject:WSMenuE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_F3bhcISCEeWraPIkZYFmBQ" name="test">
+  <menuEntries xmi:id="_F3bhcYSCEeWraPIkZYFmBQ" id="test">
+    <descriptions xmi:id="_F3bhcoSCEeWraPIkZYFmBQ" language="en" label="test"/>
+  </menuEntries>
+</mdmserverobject:WSMenuE>
